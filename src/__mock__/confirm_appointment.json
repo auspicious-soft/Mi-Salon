@@ -1,0 +1,11 @@
+{
+  "data": {
+    "id": 1,
+    "name": "Salon Name",
+    "service": "Wash + Buzz",
+    "location": "2825 Peachtree Road NW, Atlanta, 10010",
+    "price": 15,
+    "start_time": "date & time both here",
+    "end_time": "date & time both here"
+  }
+}

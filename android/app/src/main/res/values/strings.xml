@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MISalon</string>
+    <string name="facebook_app_id">876096076718747</string>
+    <string name="fb_login_protocol_scheme">fb876096076718747</string>
+    <string name="facebook_client_token">1008a5698f964724fd30c085aff71004</string>
+    <string name="location_permission_description">Our salon app uses your device location to help you find the nearest salon locations, provide you with accurate directions, and enhance your booking experience. Your location data will only be used while you are actively using the app and will never be shared with any third parties. You can control your location settings in the app settings menu and can opt-out of location tracking at any time.</string>
+</resources>

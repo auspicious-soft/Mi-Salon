@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Andrew",
+      "picture": "url"
+    },
+
+    {
+      "id": 2,
+      "name": "Andrew",
+      "picture": "url"
+    },
+
+    {
+      "id": 3,
+      "name": "Andrew",
+      "picture": "url"
+    }
+  ]
+}

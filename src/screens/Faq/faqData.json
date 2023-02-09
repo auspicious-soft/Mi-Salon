@@ -1,0 +1,18 @@
+[
+  {
+    "title": "How do I book an appointment with your salon?",
+    "desc": "You can book an appointment through our mobile app."
+  },
+  {
+    "title": "Do I need to make a deposit when booking an appointment?",
+    "desc": "No, we do not require a deposit to book an appointment. However, we do require a credit card on file to hold the appointment."
+  },
+  {
+    "title": "What should I do if I need to cancel or reschedule my appointment?",
+    "desc": "You can cancel or reschedule your appointment through our mobile app."
+  },
+  {
+    "title": "What services do you offer?",
+    "desc": "We offer hair cutting, coloring, styling, and more. You can view our full list of services on our mobile app."
+  }
+]
